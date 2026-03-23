@@ -1,7 +1,11 @@
 # Executables
 main
 RasCpp
+test_RasCpp
 *.out
+*.exe
+*.a
+*.so
 
 # Object files
 *.o
